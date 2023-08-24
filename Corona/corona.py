@@ -16,7 +16,7 @@ print('''
   ░        ░ ░ ░ ▒    ░░   ░ ░ ░ ░ ▒     ░   ░ ░   ░   ▒   
   ░ ░          ░ ░     ░         ░ ░           ░       ░  ░
   ░                                                                                                     
-	Owo Hunt- Owo battle - Owo lottbox vb...!
+	Owo Hunt- Owo battle - Owo lootbox vb...!
 ''')
 
 
@@ -46,7 +46,7 @@ print('''
 
 print('''
 --------------------
-<help to see commands!
+token bulunamadı!
 --------------------
 ''')
 input()
